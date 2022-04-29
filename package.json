@@ -1,0 +1,25 @@
+{
+  "name": "bitprecoapi",
+  "version": "1.0.0",
+  "description": "an app for price",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalrobertlima/bitPrecoAPI.git"
+  },
+  "keywords": [
+    "api",
+    "bitpreco",
+    "btc",
+    "price"
+  ],
+  "author": "scr1pt3r",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitalrobertlima/bitPrecoAPI/issues"
+  },
+  "homepage": "https://github.com/digitalrobertlima/bitPrecoAPI#readme"
+}
